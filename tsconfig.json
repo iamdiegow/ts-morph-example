@@ -1,0 +1,13 @@
+{
+	"display": "Node 18",
+	"compilerOptions": {
+		"module": "NodeNext",
+		"moduleResolution": "Node16",
+		"target": "ES6",
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": false,
+		"baseUrl": "src",
+		"noEmit": true
+	}
+}
