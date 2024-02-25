@@ -14,5 +14,3 @@ export function isLocalModule(moduleSpecifierValue: string) {
 		return dir.startsWith(localModuleSpecifierValue)
 	})
 }
-
-path.parse
